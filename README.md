@@ -1,3 +1,5 @@
+June 2023 - This repo is made read-only as a reference.
+
 This library contains everything you need to serve responsive
 banner ads in a Flutter application.
 
